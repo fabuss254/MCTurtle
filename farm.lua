@@ -1,1 +1,1 @@
-print("Code works!")
+print(turtle.getFuelLevel())
