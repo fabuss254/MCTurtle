@@ -1,7 +1,7 @@
 local Data = {}
 function Setup()
-    turtle.left()
-    turtle.left()
+    turtle.turnLeft()
+    turtle.turnLeft()
     print("Block in front: ", turtle.inspect())
 end
 
